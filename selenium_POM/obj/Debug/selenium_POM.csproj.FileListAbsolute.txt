@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\selenium_POM.exe.config
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\selenium_POM.exe
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\selenium_POM.pdb
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\nunit.framework.dll
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\WebDriver.dll
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\WebDriver.Support.dll
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\nunit.framework.pdb
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\nunit.framework.xml
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\WebDriver.xml
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\bin\Debug\WebDriver.Support.xml
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\obj\Debug\selenium_POM.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\obj\Debug\selenium_POM.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\obj\Debug\selenium_POM.exe
+C:\Users\Dell\source\repos\selenium_POM\selenium_POM\obj\Debug\selenium_POM.pdb
