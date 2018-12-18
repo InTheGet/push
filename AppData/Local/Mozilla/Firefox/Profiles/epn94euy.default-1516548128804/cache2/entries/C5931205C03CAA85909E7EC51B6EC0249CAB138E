@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Directory Listing: /pub/firefox/releases/54.0.1/win64/</title>
+	</head>
+	<body>
+		<h1>Index of /pub/firefox/releases/54.0.1/win64/</h1>
+		<table>
+			<tr>
+				<th>Type</th>
+				<th>Name</th>
+				<th>Size</th>
+				<th>Last Modified</th>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/">..</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ach/">ach/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/af/">af/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/an/">an/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ar/">ar/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/as/">as/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ast/">ast/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/az/">az/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/bg/">bg/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/bn-BD/">bn-BD/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/bn-IN/">bn-IN/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/br/">br/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/bs/">bs/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ca/">ca/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/cak/">cak/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/cs/">cs/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/cy/">cy/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/da/">da/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/de/">de/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/dsb/">dsb/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/el/">el/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/en-GB/">en-GB/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/en-US/">en-US/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/en-ZA/">en-ZA/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/eo/">eo/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/es-AR/">es-AR/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/es-CL/">es-CL/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/es-ES/">es-ES/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/es-MX/">es-MX/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/et/">et/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/eu/">eu/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/fa/">fa/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ff/">ff/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/fi/">fi/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/fr/">fr/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/fy-NL/">fy-NL/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ga-IE/">ga-IE/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/gd/">gd/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/gl/">gl/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/gn/">gn/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/gu-IN/">gu-IN/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/he/">he/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/hi-IN/">hi-IN/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/hr/">hr/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/hsb/">hsb/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/hu/">hu/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/hy-AM/">hy-AM/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/id/">id/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/is/">is/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/it/">it/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ja/">ja/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ka/">ka/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/kab/">kab/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/kk/">kk/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/km/">km/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/kn/">kn/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ko/">ko/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/lij/">lij/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/lt/">lt/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/lv/">lv/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/mai/">mai/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/mk/">mk/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ml/">ml/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/mr/">mr/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ms/">ms/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/my/">my/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/nb-NO/">nb-NO/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/nl/">nl/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/nn-NO/">nn-NO/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/or/">or/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/pa-IN/">pa-IN/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/pl/">pl/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/pt-BR/">pt-BR/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/pt-PT/">pt-PT/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/rm/">rm/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ro/">ro/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ru/">ru/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/si/">si/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/sk/">sk/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/sl/">sl/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/son/">son/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/sq/">sq/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/sr/">sr/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/sv-SE/">sv-SE/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ta/">ta/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/te/">te/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/th/">th/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/tr/">tr/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/uk/">uk/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/ur/">ur/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/uz/">uz/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/vi/">vi/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/xh/">xh/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/xpi/">xpi/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/zh-CN/">zh-CN/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>Dir</td>
+				<td><a href="/pub/firefox/releases/54.0.1/win64/zh-TW/">zh-TW/</a></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			
+		</table>
+	</body>
+</html>
+B‹ÔÚù      ZstNZstN>≤#KZsw“   ;    :https://ftp.mozilla.org/pub/firefox/releases/54.0.1/win64/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET request-Accept text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 response-head HTTP/1.1 200 OK
+Content-Type: text/html
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=900
+Date: Thu, 01 Feb 2018 20:10:56 GMT
+Expires: Thu, 01 Feb 2018 20:25:56 GMT
+Vary: Accept
+X-Cache: Miss from cloudfront
+Via: 1.1 50bd0b957acb5decd3288fee6a5831cf.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: _AYRyL4dEOuGVdOG11wz5dMaJC46R8aAYVR2O5Z1WJ6u56XOKP7SwA==
+ original-response-headers Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: *
+Cache-Control: max-age=900
+Date: Thu, 01 Feb 2018 20:10:56 GMT
+Expires: Thu, 01 Feb 2018 20:25:56 GMT
+Vary: Accept
+X-Cache: Miss from cloudfront
+Via: 1.1 50bd0b957acb5decd3288fee6a5831cf.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: _AYRyL4dEOuGVdOG11wz5dMaJC46R8aAYVR2O5Z1WJ6u56XOKP7SwA==
+ charset windows-1252 uncompressed-len 0 net-response-time-onstart 310 net-response-time-onstop 383   4Î
