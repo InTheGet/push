@@ -1,0 +1,2278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <!-- rbt -->
+
+  <title>Athlete Lean, Athlete Strong | T Nation</title>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="1rl6YnnJda0MdtMfygAqUd7dlc9/bj7o+5H/Kgndzw4=" name="csrf-token" />
+  <meta name="viewport" content="width=device-width">
+
+  <link href="/publishing/assets/application-d15e3ff45a9c458d221f9f48317cc345.css" media="all" rel="stylesheet" type="text/css" />
+
+  
+  
+
+
+  <script src="/publishing/assets/application-747d4940651dbde598badba61fcd2f8d.js" type="text/javascript"></script>
+  <script type="text/javascript">
+ var googletag = googletag || {};
+ googletag.cmd = googletag.cmd || [];
+ (function() {
+  var gads = document.createElement("script");
+  gads.async = true;
+  gads.type = "text/javascript";
+  var useSSL = "https:" == document.location.protocol;
+  gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+  var node =document.getElementsByTagName("script")[0];
+  node.parentNode.insertBefore(gads, node);
+ })();
+</script>
+
+    <!-- Google Tag Manager (production) -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N7QR7MQ"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N7QR7MQ');</script>
+  <!-- End Google Tag Manager -->
+
+
+
+      <script>
+    var networkCode = 97719110;
+    var topLevelAdUnit = 't-nation';
+    var mobile = false;
+      var s1 = "articles";
+      var s2 = "training";
+      var adUnit = topLevelAdUnit + "/" + s1 + "/" + s2;
+      var pgtype = 'article';
+    var slotName = "/" + networkCode + "/" + adUnit;
+    var pid = 'athlete-lean-athlete-strong';
+    var tag = [];
+        tag.push("fat-loss-training");
+    var author = 'christian-thibaudeau';
+
+    //determine breakpoint
+    var width = $(window).width();
+    var breakpoint = "desktop";
+    if (width <= 766) {
+      breakpoint = "mobile";
+      mobile = true;
+    } else if (width <= 991) {
+      breakpoint = "tablet";
+    }
+    // check for a test value
+    var search = location.href;
+    var regex = new RegExp("[\\?&]test=([^&#]*)");
+    var results = regex.exec(search);
+    var test = results == null ? null : results[1]; //only if "?test=[value]" is appended to URL
+    // end check for test value
+  googletag.cmd.push(function() {
+    var marqueeMapping = googletag.sizeMapping().
+          addSize([992, 0], [[970, 90], [970, 250], [738, 369], [728, 90]]).
+          addSize([767, 0], [[728, 90], [738, 369]]).
+          addSize([0, 0], [[300, 250], [336, 280]]).
+          build();
+    var right1Mapping = googletag.sizeMapping().
+          addSize([992, 0], [[300, 250], [300, 600], [300, 1050]]).
+          addSize([767, 0], []).
+          addSize([0, 0], []).
+          build();
+    var right2Mapping = googletag.sizeMapping().
+          addSize([992, 0], [[300, 250], [300, 600]]).
+          addSize([767, 0], []).
+          addSize([0, 0], []).
+          build();
+    var incontentMapping = googletag.sizeMapping().
+          addSize([767, 0], [[728, 90], [300, 250], [336, 280]]).
+          addSize([0, 0], [[300, 250], [320, 50]]).
+          build();
+  googletag.defineOutOfPageSlot(slotName, 'div-id-for-skin-ad')
+  .addService(googletag.pubads())
+  .setTargeting("pos", "oop");
+    googletag.defineSlot(slotName, [[970,90], [970, 250], [738, 369], [728, 90]], 'div-id-for-970x90-top')
+    .defineSizeMapping(marqueeMapping)
+    .addService(googletag.pubads())
+    .setTargeting("pos", "top");
+    googletag.defineSlot(slotName, [[728, 90], [300, 250], [336, 280]], 'div-id-for-300x250-incontent1')
+    .defineSizeMapping(incontentMapping)
+    .addService(googletag.pubads())
+    .setTargeting("pos", "incontent1");
+    googletag.defineSlot(slotName, [[728, 90], [300, 250], [336, 280]], 'div-id-for-300x250-incontent2')
+    .defineSizeMapping(incontentMapping)
+    .addService(googletag.pubads())
+    .setTargeting("pos", "incontent2");
+    googletag.defineSlot(slotName, [[300, 250], [300, 600], [300, 1050]], 'div-id-for-300x250-right1')
+    .defineSizeMapping(right1Mapping)
+    .addService(googletag.pubads())
+    .setTargeting("pos", "right1");
+    googletag.defineSlot(slotName, [[300, 250], [300, 600]], 'div-id-for-300x250-right2')
+    .defineSizeMapping(right2Mapping)
+    .addService(googletag.pubads())
+    .setTargeting("pos", "right2");
+    googletag.defineSlot(slotName, [[300,600], [300,250]], "div-id-for-300x250-bottom")
+      .defineSizeMapping(right2Mapping)
+      .addService(googletag.pubads())
+      .setTargeting("pos", "bottom");
+      googletag.pubads().setTargeting("s1",s1);
+      googletag.pubads().setTargeting("s2",s2);
+      googletag.pubads().setTargeting("pid",pid);
+      googletag.pubads().setTargeting("tag",tag);
+      googletag.pubads().setTargeting("author",author);
+      googletag.pubads().setTargeting("pgtype",pgtype);
+      googletag.pubads().setTargeting("breakpoint",breakpoint);
+      if (test) {
+        googletag.pubads().setTargeting("test",test);
+      }
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script>
+  //load the apstag.js library
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+  //initialize the apstag.js library on the page to allow bidding
+  apstag.init({
+       pubID: '4183e527-a93b-4eac-8cc7-dc48a0243bbf', //enter your pub ID here as shown above, it must within quotes
+       adServer: 'googletag'
+  });
+  apstag.fetchBids({
+       slots: [{
+           slotID: 'div-id-for-970x90-top', //example: 'div-gpt-ad-1475185990716-0'
+           slotName: slotName, //example: '12345/leaderboard-1'
+           sizes: [[970,90], [970, 250], [738, 369], [728, 90]] //example: [[728,90]]
+       },
+       {
+           slotID: 'div-id-for-300x250-incontent1', //example: 'div-gpt-ad-1475185990716-0'
+           slotName: slotName, //example: '12345/leaderboard-1'
+           sizes: [[728, 90], [300, 250], [336, 280]] //example: [[728,90]]
+       },
+       {
+           slotID: 'div-id-for-300x250-incontent2', //example: 'div-gpt-ad-1475185990716-0'
+           slotName: slotName, //example: '12345/leaderboard-1'
+           sizes: [[728, 90], [300, 250], [336, 280]] //example: [[728,90]]
+       },
+       {
+           slotID: 'div-id-for-300x250-right1', //example: 'div-gpt-ad-1475185990716-0'
+           slotName: slotName, //example: '12345/leaderboard-1'
+           sizes: [[300,1050], [300,600], [300,250]] //example: [[728,90]]
+       },
+       {
+           slotID: 'div-id-for-300x250-right2', //example: 'div-gpt-ad-1475185990716-0'
+           slotName: slotName, //example: '12345/leaderboard-1'
+           sizes: [[300,600], [300,250]] //example: [[728,90]]
+       },
+       {
+           slotID: 'div-id-for-300x250-bottom', //example: 'div-gpt-ad-1475185990716-0'
+           slotName: slotName, //example: '12345/leaderboard-1'
+           sizes: [[300,600], [300,250]] //example: [[728,90]]
+       }],
+       timeout: 2e3
+  }, function(bids) {
+       // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+       googletag.cmd.push(function(){
+           apstag.setDisplayBids();
+           googletag.pubads().refresh();
+       });
+  });
+  </script>
+
+  <!--[if lte IE 8]>
+  <script src="/publishing/assets/html5-5854a69ddfa803dd02ae9d6ba40aa4f2.js" type="text/javascript"></script>
+  <![endif]-->
+
+<!--
+  <script>
+    jQuery(document).ready(function(){
+      jQuery(".label").colorbox({rel:'nofollow'});
+      });
+  </script>
+-->
+
+  
+
+  <meta name="verify-v1" content="ThTrFuwAEsRYNsqS4kwbIMCfXZW2x4XjpFG3DUYeAAo="/>
+  <meta property="fb:app_id" content="174725749554328">
+<meta property="fb:pages" content="11899831116"/>
+<meta property="og:title" content="Athlete Lean, Athlete Strong | T Nation"/>
+<meta property="og:description" name="description" content="The fastest and most effective way to get ripped is to train like a power/speed athlete. Here's your complete program." />
+<meta property="og:url" content="https://www.t-nation.com/training/athlete-lean-athlete-strong"/>
+<meta property="og:site_name" content="T NATION"/>
+<meta property="og:image" content='https://www.t-nation.com/system/publishing/articles/485/original/CT_Pull.jpg?1392069230'>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@T_Nation">
+<meta name="twitter:creator" content="@T_Nation">
+<meta name="twitter:title" content="Athlete Lean, Athlete Strong | T Nation">
+<meta name="twitter:description" content="The fastest and most effective way to get ripped is to train like a power/speed athlete. Here's your complete program." />
+<meta name="twitter:image" content='https://www.t-nation.com/system/publishing/articles/485/original/CT_Pull.jpg?1392069230'>
+<meta name="author" content="Christian Thibaudeau, T Nation" />
+<link rel="canonical" href="https://www.t-nation.com/training/athlete-lean-athlete-strong"/>
+<meta name="keywords" content="Fat Loss Training" />
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="T Nation">
+<meta name="application-name" content="T Nation">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+  _atrk_opts = { atrk_acct:"qb+wh1acBa00yN", domain:"t-nation.com",dynamic: true};
+  (function() {
+    var as = document.createElement('script');
+    as.type = 'text/javascript';
+    as.async = true;
+    as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(as, s);
+  })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qb+wh1acBa00yN" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+  <!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82085-3', 't-nation.com');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+  <script type="text/javascript">
+  !function(a,b){a("Keen","https://d26b395fwzu5fz.cloudfront.net/3.2.7/keen.min.js",b)}(function(a,b,c){var d,e,f;c["_"+a]={},c[a]=function(b){c["_"+a].clients=c["_"+a].clients||{},c["_"+a].clients[b.projectId]=this,this._config=b},c[a].ready=function(b){c["_"+a].ready=c["_"+a].ready||[],c["_"+a].ready.push(b)},d=["addEvent","setGlobalProperties","trackExternalLink","on"];for(var g=0;g<d.length;g++){var h=d[g],i=function(a){return function(){return this["_"+a]=this["_"+a]||[],this["_"+a].push(arguments),this}};c[a].prototype[h]=i(h)}e=document.createElement("script"),e.async=!0,e.src=b,f=document.getElementsByTagName("script")[0],f.parentNode.insertBefore(e,f)},this);
+
+  var keenClient = new Keen({
+    projectId: "55fc67f76f31a27807a29a8d", // String (required always)
+    writeKey: "6ce0c33c2f5609d8938590141b7c0c6d128d30b6d15b391f8b7449e89a50c0ab8239224e924348962984fc132ee47508f3e7032d2798af32897454da4cc085bf561345633ee2b32b5e53b975462ffb20e9f4ea7d6a47c23e8ac1c7dad3230647b965ac49766b7ff3055397e18ae393c0",     // String (required for querying data)
+    requestType: "xhr"
+  });
+</script>
+
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0048/1675.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+  <!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+_qevents.push({
+qacct:"p-H3Q5KK1NnMyhR"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-H3Q5KK1NnMyhR.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+  <script type="text/javascript" src="//oao-d.openx.net/w/1.0/jstag?nc=97719110-tnation" async></script>
+
+</head>
+<body id="article-show" class="articles athlete-lean-athlete-strong training">
+  <img src="/publishing/assets/nav/T-Nation-Logo-Desktop.png" alt="" class="print">
+  <div class="hidden-sm hidden-xs">
+    <nav class="navbar navbar-fixed-top header">
+      <!--[if lte IE 7]>
+        <div style="background-color:#3a3a3a; border:1px solid #CC0000; color:#FFFFFF; height:25px; margin:0 auto; padding-top:6px; text-align:center; width:1200px;">This site may not function properly in the version of Internet Explorer you are using. Please <a target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home">upgrade</a> to the latest version. Or download the latest version of <a target="_blank" href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a> or <a target="_blank" href="http://www.google.com/chrome">Chrome</a>.</div><br />
+      <![endif]-->
+      <div class="container-fluid">
+        <div id="homeImg">
+          <a class="homeImg" href="//www.t-nation.com"></a>
+        </div>
+        <div id="main_nav">
+          <script>
+  jQuery(document).ready(function(){
+    var menu = jQuery("ul.sf-menu")
+    if (typeof(menu.superfish) === "function") {
+      menu.superfish();
+    }
+  });
+</script>
+<nav id="nav"><!-- do not remove this div. for IE -->
+
+<div id="userNameTop">
+  <div id="navWrap">
+    <form><input type="hidden" name="state" class="stateField" value=""></form>
+    <ul id="mainNav" class="sf-menu">
+        <li class="articlesDD DD"><a class="articlesImg rootLink sf-with-ul" href="//www.t-nation.com/all-articles">ARTICLES</a>
+            <ul class="DD1">
+                <li><a class="mostPopularArticleLink" href="//www.t-nation.com/most-popular">Most Popular</a></li>
+                <li><a class="trainingArticleLink" href="//www.t-nation.com/training">Training</a></li>
+				        <li><a class="workoutsArticleLink" href="//www.t-nation.com/workouts">Workouts</a></li>
+                <li><a class="dietArticleLink" href="//www.t-nation.com/diet-fat-loss">Diet &amp; Fat Loss</a></li>
+                <li><a class="supplementArticleLink" href="//www.t-nation.com/supplements">Supplements</a></li>
+                <li><a class="powerfulArticleLink" href="//www.t-nation.com/powerful-words">Powerful Words</a></li>
+                <li><a class="opinionArticleLink" href="//www.t-nation.com/opinion">Opinion</a></li>
+                <li><a class="livingArticleLink" href="//www.t-nation.com/living">Living</a></li>
+                <li><a class="promoArticleLink" href="//www.t-nation.com/promo">Promoted</a></li>
+            </ul>
+        </li><!-- end ARTICLES menu -->
+
+
+        <li class="forumsDD DD"><a class="forumsImg rootLink sf-with-ul" href="https://forums.t-nation.com">FORUMS</a>
+            <ul class="DD1">
+              <li><a href="https://forums.t-nation.com/latest">Latest Posts</a></li>
+              <li><a href="https://forums.t-nation.com/c/training-logs">Training Logs</a></li>
+              <li><a href="https://forums.t-nation.com/c/supplements-and-nutrition">Supplements and Nutrition</a></li>
+              <li><a href="https://forums.t-nation.com/c/christian-thibaudeau-coaching">Christian Thibaudeau Training</a></li>
+              <li><a href="https://forums.t-nation.com/c/jim-wendler-5-3-1-coaching">Jim Wendler 5/3/1 Coaching</a></li>
+              <li><a href="https://forums.t-nation.com/c/paul-carter-coaching">Paul Carter Coaching</a></li>
+              <li><a href="https://forums.t-nation.com/c/bigger-stronger-leaner">Bigger Stronger Leaner</a></li>
+              <li><a href="https://forums.t-nation.com/c/bodybuilding">Bodybuilding</a></li>
+              <li><a href="https://forums.t-nation.com/c/powerlifting">Powerlifting</a></li>
+              <li><a href="https://forums.t-nation.com/c/figure-athletes">Figure Athletes</a></li>
+              <li><a href="https://forums.t-nation.com/c/powerful-women">Powerful Women</a></li>
+              <li><a href="https://forums.t-nation.com/c/over-35-lifter">Over 35 Lifter</a></li>
+              <li><a href="https://forums.t-nation.com/c/beginners">Beginners</a></li>
+              <li><a href="https://forums.t-nation.com/c/combat">Combat</a></li>
+              <li><a href="https://forums.t-nation.com/c/conditioning">Conditioning</a></li>
+              <li><a href="https://forums.t-nation.com/c/olympic-lifting">Olympic Lifting</a></li>
+              <li><a href="https://forums.t-nation.com/c/strongman">Strongman</a></li>
+              <li><a href="https://forums.t-nation.com/c/injuries-and-rehab">Injuries and Rehab</a></li>
+              <li><a href="https://forums.t-nation.com/c/off-topic">Off Topic / Get a Life</a></li>
+              <li><a href="https://forums.t-nation.com/c/politics-and-world-issues">Politics and World Issues</a></li>
+              <li><a href="https://forums.t-nation.com/c/rate-my-physique-photos">Rate My Physique Photos</a></li>
+              <li><a href="https://forums.t-nation.com/c/t-replacement">T Replacement</a></li>
+              <li><a href="https://forums.t-nation.com/c/pharma">Pharma</a></li>
+            </ul>
+        </li><!-- end FORUMS menu -->
+
+    <li class="blogsDD DD"><a class="blogsImg rootLink sf-with-ul" href="//www.t-nation.com/blogs">Blogs</a>
+        <ul class="DD1">
+          <li><a class="cshugartLink" href="//www.t-nation.com/blogs/authors/chris-shugart">Chris Shugart</a></li>
+          <li><a class="thibaudeauLink" href="//www.t-nation.com/blogs/authors/christian-thibaudeau">Christian Thibaudeau</a></li>
+          <li><a class="dshugartLink" href="//www.t-nation.com/blogs/authors/dani-shugart">Dani Shugart</a></li>
+        </ul>
+    </li>
+    <li class="videoDD DD"><a class="videoImg rootLink sf-with-ul" href="//www.t-nation.com/videos">Videos</a></li>
+    <li class="storeDD DD"><a class="storeImg rootLink sf-with-ul" href="//biotest.t-nation.com/">BIOTEST STORE</a></li><!-- end STORE menu -->
+
+    </ul><!-- end #mainNavLink -->
+
+    <div id="searchWrap">
+      <!-- BEGIN Google Search Results -->
+      <script>
+        (function() {
+          window.__gcse = {
+            callback: searchBoxFix
+          };
+          function searchBoxFix(){ // callback to load search JS with the search box
+            $('input[type="button"].gsc-search-button').val(''); // Add the magnifying glass
+            $(".gsc-input").attr("placeholder", "Search"); // add placeholder text
+          }
+          var cx = '016420786931182441572:kswwmllusns';
+          var gcse = document.createElement('script');
+          gcse.type = 'text/javascript';
+          gcse.async = true;
+          gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(gcse, s);
+        })();
+      </script>
+      <gcse:searchbox-only resultsUrl="//www.t-nation.com/search"></gcse:searchbox-only>
+      <!-- END Google Search Results -->
+    </div>
+
+  </div>
+</div>
+
+</nav><!-- end nav -->
+
+        </div>
+      </div>
+    </nav>
+  </div>
+  <div class="visible-sm-block visible-xs-block">
+    <nav class="navbar navbar-inverse navbar-fixed-top mobile-header">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" style="padding: 3px 6px 0px;">
+        <span class="icon-bar" style="width: 100%;"></span>
+        <span class="icon-bar" style="width: 100%;"></span>
+        <span class="icon-bar" style="width: 100%;"></span>
+        <span style="font-size: 8px; font-weight: bold; text-align: center; line-height: 0;">MENU</span>
+      </button>
+      <a class="navbar-brand" href="//www.t-nation.com"><img alt="T-nation-logo-mobile" height="100%" src="/publishing/assets/T-Nation-Logo-Mobile.png" srcset="/publishing/assets/T-Nation-Logo-Mobile.svg" /></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li>
+          <gcse:searchbox-only resultsUrl="//www.t-nation.com/search"></gcse:searchbox-only>
+        </li>
+        <li class="active"><a href="//www.t-nation.com">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" href="//www.t-nation.com/all-articles">Articles<!-- <span class="caret"></span> --></a>
+          <!-- data-toggle="dropdown" -->
+          <!-- <ul class="dropdown-menu">
+            <li><a href="#">Page 1-1</a></li>
+            <li><a href="#">Page 1-2</a></li>
+            <li><a href="#">Page 1-3</a></li>
+          </ul> -->
+        </li>
+        <li><a href="https://forums.t-nation.com">Forums</a></li>
+        <li><a href="//www.t-nation.com/blogs">Blogs</a>        </li>
+        <li><a href="//www.t-nation.com/videos">Videos</a></li>
+        <li><a href="//biotest.t-nation.com/">Biotest Store</a></li>
+        <li><a href="//www.t-nation.com/users/sign_in">Sign In</a></li>
+        <li><a href="//www.t-nation.com/users/sign_up">Sign Up</a></li>
+      </ul>
+      <!-- <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul> -->
+    </div>
+  </div>
+</nav>
+
+  </div>
+  <div class="container">
+    <article>
+      <div id='flash'>
+        
+      </div>
+
+      <div id='top_cart'>
+        <div id="dropdown_area" style='display:none;'>
+        </div>
+      </div>
+
+      <div id='cart_content'>
+        
+      </div>
+
+           <!-- Page takeover -->
+          <div id="div-id-for-skin-ad">
+<script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display("div-id-for-skin-ad"); });
+</script>
+</div>
+
+          <div class="top-ad">
+            <div id="div-id-for-970x90-top">
+<script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display("div-id-for-970x90-top"); });
+</script>
+</div>
+
+          </div>
+
+      <div class="row">
+        <div class="col-sm-12">
+          
+          <div class="row">
+  <div id="primary-section" class="col-md-8 col-sm-12 ">
+
+    <div id="article_detail_container">
+      <div id="articles" class="clearfix">
+  <div class="articleWrap clearfix" id="article_485">
+    <div class="readArticle3">
+      <div class="title-details">
+        <h1 class="article-detail"><a href="/training/athlete-lean-athlete-strong">Athlete Lean, Athlete Strong</a></h1>
+        <h2 class="article-detail"></h2>
+
+        <div class="article-detail-byline">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+<span class="timeStamp3">03/04/16</span>
+        </div>
+      </div>
+      <div class="articleLeadImage">
+        <img alt="Ct_pull" src="/system/publishing/articles/485/original/CT_Pull.jpg?1392069230" />
+          <div class="icon-layer">
+		  </div>
+      </div>
+        <div class="articleTags">
+            <div class="tags">
+                <div>
+                  Tags: <span class="articleTagsList">
+                      <li class="list"><a href="/all-articles/tags/fat-loss-training">Fat Loss Training</a></li>
+                  </span>
+                </div>
+            </div>
+        </div>
+      <div class="in-article-ad">
+        <div id="div-id-for-300x250-incontent1">
+<script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display("div-id-for-300x250-incontent1"); });
+</script>
+</div>
+
+      </div>
+      <div class="article-body">
+        <p class="articleContent">
+
+            <h2 class="ntkheader">Here's what you need to know...</h2>
+
+<ol>
+
+<li><span>If your goal is to become as lean and muscular as possible, you need to train like a power/speed athlete.</span></li>
+
+<li><span>Workouts should emphasize strength, explosiveness and speed, and the capacity to maintain a high level of strength for an extended period.</span></li>
+
+<li><span>The exercise menu should be limited. An excessive amount of volume or garbage sets will sap recovery capability.</span></li>
+
+</ol>
+
+<div style="background:#444444; height:1px; width:100%; margin-top: 2em; margin-bottom: 3em;"></div>
+
+<h3>The 3 Elements</h3>
+
+<p>To excel in his sport, a power/speed athlete must be able to move explosively through space. To do that at an optimal level requires power (a solid amount of muscle) and as little dead weight (fat) as possible.</p>
+
+<p>Put another way, if you train to be strong, explosive and fast, and capable of maintaining a high level of strength or power output for an extended period, then you <i>will</i> be lean and muscular. When I want to get someone ripped, I base their program on improving those three elements.</p>
+
+
+<h3>1 – Getting "Athlete Strong"</h3>
+
+<p>Athlete strong is having a high level of general strength, not just excelling in a few specific lifts. Being strong on the basic barbell lifts will give you a very good head start in the strength department, but it takes more than that to be athlete strong. You need to be able to <i>transfer</i> your gym strength to real-life activities.</p>
+
+<p>For this reason, you must 1) get stronger on a variety of barbell lifts covering the whole body and 2) get stronger using different versions of the loaded carry.</p>
+
+<!-- IMAGE --> 
+<div style="width: 100%; text-align: center; margin:36px 0; vertical-align: middle;">
+<img width="100%" src="/system/publishing/article_assets/2460/original/Box-Jump.jpg?ts=1429911552" alt="Box Jump" />
+</div>
+<!-- IMAGE --> 
+
+
+<h3>2 – Getting Explosive and Fast</h3>
+
+<p>Being explosive and fast are two qualities that have a huge impact on your appearance. To call yourself explosive you need to be able to:</p>
+
+<ol>
+
+	<li><span>Jump high and far.</span></li>
+
+	<li><span>Run fast.</span></li>
+
+	<li><span>Throw things a long way.</span></li>
+
+</ol>
+
+<p>When these are maximized, you <i>will</i> be lean and muscular.</p>
+
+<p>Another important aspect of body composition training is various forms of jumps, throws, and sprints. These can be done for:</p>
+
+<ol>
+
+	<li>Maximal power output: <span>Low-rep jumps, moderate-weight throws, or sprints of 60 meters or less</span></li>
+
+	<li>Maximal capacity output: <span>Sets of jumps or throws lasting 45-60 seconds, sprints of 200-400 meters</span></li>
+
+	<li>Overload: <span>Weighted jumps, heavy throws, resisted sprinting</span></li>
+
+</ol>
+
+<p>All of the above will contribute to building a lean and muscular physique.</p>
+
+<!-- IMAGE --> 
+<div style="width: 100%; text-align: center; margin:36px 0; vertical-align: middle;">
+<img width="100%" src="/system/publishing/article_assets/2465/original/st-pierre-punch.jpg?ts=1429911553" alt="st-pierre punch" />
+</div>
+<!-- IMAGE --> 
+
+
+<h3>3 – Staying Strong for an Extended Period</h3>
+
+<p>The leanest power athletes are those who can maintain a high level of power or force production for one or two minutes. Think of a 400-meter sprint, a gymnastic ring routine, or a round of boxing or MMA.</p>
+
+<p>Athletes in power sports that require extreme power for only a brief moment, such as throwers and most Olympic lifters, typically aren't as lean. Even 100-meter sprinters, who are super lean and only run for 10 seconds, do a lot of 200, 300 and 400-meter sprints in their training.</p>
+
+<p>So to be very lean you not only need to be strong and powerful, you must be able to sustain your capacity over an extended period. That's where loaded carries (extended strength) and explosive capacity work (jump and throw sets lasting 45-60 seconds, 200-400 meter sprints) come into play.</p>
+
+<p>Another strategy is to use complexes. For example, doing a combination of three strength and/or power exercises back to back without rest.</p>
+
+
+<h3>Diet</h3>
+
+<p>You still need to establish a caloric deficit to lose fat. You can do that by restricting calories on a daily basis or by using the 5/2 Fat Loss Diet for Lifters that has you eating two lower calorie days a week (you establish your weekly deficit on those two days and can eat more on the other five).</p>
+
+<p>However, the type of training you do profoundly affects how your body will look and how fast it will take you to get there. You should still strive to improve performance, even if you're consuming fewer calories than you need.</p>
+
+<p>That's one reason I like the 5/2 approach when training like an athlete. It allows you to have a caloric deficit over the week, thus stimulating fat loss, while also having sufficient fuel to perform at a very high level and enough nutrients and calories to grow muscle.</p>
+
+
+<h3>The Program</h3>
+
+<p>Here's the exact program I use with my athletes. You may not have all the equipment to follow it to a "T" but you can still use this as a guideline for creating your own plan.</p>
+
+<p>This program has five lifting days and two days where you only work energy systems. These could also be off days, but fat loss will be a bit slower.</p>
+
+<p>This program is ideally suited for the 5/2 diet but any eating style will work, provided optimal peri-workout protocols are followed. I strongly suggest <a href="https://biotest.t-nation.com/products/plazma"><font color="#FF0033">Plazma™</font></a> before and during training and <a href="https://biotest.t-nation.com/products/mag-10"><font color="#FF0033">Mag-10®</font></a> after training.</p>
+
+<p><font color="#ffa800">Important.</font> <font color="#BBBBBB">Decreasing or eliminating peri-workout carbs to expedite fat loss is a mistake.</font> When trying to lose fat it's paramount that you do everything possible to maintain or improve performance. That's the only way to ensure that you're preventing muscle loss and triggering some lean mass gains.</p>
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Monday – Lower Body</h4>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td width="5%">&nbsp;</td>
+	<td width="40%">Exercise</td>
+	<td width="10%" class="number">Week</td>
+	<td width="10%" class="number">Sets</td>
+	<td width="20%" class="number">Reps/Time</td>
+	<td width="15%" class="number">% RM/Rest</td></tr>
+
+<tr>
+	<td class="tdBlue number">A</td>
+	<td class="tdYellow">Box Jump</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   1<br />
+					   1</td>
+	<td class="number">5<br />
+					   5<br />
+					   5<br />
+					   5</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">B</td>
+	<td class="tdYellow">Jump Squat</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">None<br />
+					   None<br />
+					   3<br />
+					   4</td>
+	<td class="number">&nbsp;<br />
+					   &nbsp;<br />
+					   5<br />
+					   3</td>
+	<td class="number">&nbsp;<br />
+					   &nbsp;<br />
+					   20%<br />
+					   30%</td></tr>
+
+<tr>
+	<td class="tdBlue number">C</td>
+	<td class="tdYellow">Trap Bar Deadlift or<br />
+	<a href="https://biotest.t-nation.com/products/dead-squat-bar"><font color="#FF0033">Dead Squat™ Bar</font></a></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   3 cluster *</td>
+	<td class="number">6<br />
+					   5<br />
+					   3<br />
+					   4-5</td>
+	<td class="number">80%<br />
+					   82.5%<br />
+					   87.5%<br />
+					   90%</td></tr>
+
+<tr>
+	<td class="tdBlue number">D1</td>
+	<td class="tdYellow">Back Squat</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   5<br />
+					   3</td>
+	<td class="number">8<br />
+					   8<br />
+					   8<br />
+					   8</td>
+	<td class="number">65%<br />
+					   67.5%<br />
+					   70%<br />
+					   72.5%</td></tr>
+
+<tr>
+	<td class="tdBlue number">D2</td>
+	<td class="tdYellow">Box Jump</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   5<br />
+					   3</td>
+	<td class="number" nowrap="nowrap">AMRAP * * 30 sec.<br />
+					   AMRAP 45 sec.<br />
+					   AMRAP 45 sec.<br />
+					   AMRAP 60 sec.</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">E</td>
+	<td class="tdYellow">Farmer's Walk or<br />Dead-Squat Bar Loaded Carry</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   4<br />
+					   4</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   60 sec.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   45 sec.<br />
+					   30 sec.</td></tr>
+
+</table>
+
+<p style="color: #BBBBBB; margin-left: 37px; margin-bottom:.5em;">
+	 * A cluster set is where each rep is performed as its own "mini-set" of 1 rep. Re-set the bar and rest for 5-10 seconds between each rep of a cluster set.<br />
+	 * * AMRAP = As Many Reps As Possible</p>
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Tuesday – Upper Body</h4>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td width="5%">&nbsp;</td>
+	<td width="40%">Exercise</td>
+	<td width="10%" class="number">Week</td>
+	<td width="10%" class="number">Sets</td>
+	<td width="20%" class="number">Reps/Time</td>
+	<td width="15%" class="number">% RM/Rest</td></tr>
+
+<tr>
+	<td class="tdBlue number">A</td>
+	<td class="tdYellow">Medicine Ball Backward Throw Against Wall</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   5<br />
+					   8<br />
+					   8</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">B</td>
+	<td class="tdYellow">Medicine Ball Push Press Throw</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   5<br />
+					   8<br />
+					   8</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">C1</td>
+	<td class="tdYellow">Push Press</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   3 cluster</td>
+	<td class="number">6<br />
+					   5<br />
+					   3<br />
+					   4-5</td>
+	<td class="number">80%<br />
+					   82.5%<br />
+					   87.5%<br />
+					   90%</td></tr>
+
+<tr>
+	<td class="tdBlue number">C2</td>
+	<td class="tdYellow">Pull-Ups<br /><font color="#BBBBBB">(use a band if you need help)</font></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   3</td>
+	<td class="number">AMRAP *<br />
+					   AMRAP<br />
+					   AMRAP<br />
+					   AMRAP</td>
+	<td class="number">30 sec.<br />
+					   30 sec.<br />
+					   30 sec.<br />
+					   30 sec.</td></tr>
+
+<tr>
+	<td class="tdBlue number" rowspan="2" nowrap="nowrap">D</td>
+	<td nowrap="nowrap" style="border-bottom:none;" class="tdYellow">Medicine Ball Complex</td>
+	<td class="number" rowspan="2"><br />1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number" rowspan="2"><br />3<br />
+					   4<br />
+					   4<br />
+					   2</td>
+	<td nowrap="nowrap" class="number" rowspan="2"><br />AMRAP 30 sec.<br />
+					   AMRAP 30 sec.<br />
+					   AMRAP 45 sec.<br />
+					   AMRAP 60 sec.</td>
+	<td class="number" rowspan="2">&nbsp;</td></tr>
+
+<tr class="tdYellow">
+	<td valign="top">
+		1. Backward Throw Against Wall<br />
+		2. Chest Throw Against Wall<br />
+		3. Push Press Throw Against Wall<br />
+		4. Slam
+</td></tr>
+
+<tr>
+	<td class="tdBlue number">E</td>
+	<td class="tdYellow">Overhead Carry<br />(Barbell, Dumbbell, or Kettlebell)</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   4<br />
+					   4</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   60 sec.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   45 sec.<br />
+					   30 sec.</td></tr>
+
+<tr>
+	<td class="tdBlue number">F</td>
+	<td class="tdYellow">Rowing Ergometer</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">2<br />
+					   2<br />
+					   2<br />
+					   1</td>
+	<td class="number">500 m.<br />
+					   750/500 m.<br />
+					   750 m.<br />
+					   1500 m.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   &nbsp;</td></tr>
+
+</table>
+
+<p style="color: #BBBBBB; margin-left: 37px; margin-bottom:.5em;">
+	 * add weight if you can get more than 12</p>
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Wednesday – High Intensity Energy System Work</h4>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td class="tdBlue number">&nbsp;</td>
+	<td class="tdYellow">Exercise</td>
+	<td class="number">Week</td>
+	<td class="number">Sets/Rate</td>
+	<td class="number">Distance/Time</td></tr>
+
+<tr>
+	<td class="tdBlue number">A</td>
+	<td class="tdYellow">Moderate Intensity Cardio<br />
+		<font color="#BBBBBB">(jogging if outside, treadmill or elliptical if inside)</font></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">120 bpm *<br />
+					   130 bpm<br />
+					   130 bpm<br />
+					   140 bpm</td>
+	<td class="number">10 min.<br />
+					   10 min.<br />
+					   12 min.<br />
+					   12 min.</td></tr>
+
+<tr>
+	<td class="tdBlue number">B</td>
+	<td class="tdYellow">Short Sprints</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   4<br />
+					   4<br />
+					   6</td>
+	<td class="number">30 m.<br />
+					   30 m.<br />
+					   60 m.<br />
+					   60 m.</td></tr>
+
+<tr>
+	<td class="tdBlue number">B</td>
+	<td class="tdYellow">Bike Short Sprints * *</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   5<br />
+					   5<br />
+					   8</td>
+	<td class="number">10 sec.<br />
+					   10 sec.<br />
+					   20 sec.<br />
+					   20 sec.</td></tr>
+
+<tr>
+	<td class="tdBlue number">C</td>
+	<td class="tdYellow">Moderate Distance Sprints</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   5<br />
+					   5<br />
+					   8</td>
+	<td class="number">200 m.<br />
+					   300 m.<br />
+					   400 m.<br />
+					   400 m.</td></tr>
+
+<tr>
+	<td class="tdBlue number">C</td>
+	<td class="tdYellow">Bike Moderate Distance Sprints * *</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   5<br />
+					   5<br />
+					   8</td>
+	<td class="number">60 sec.<br />
+					   90 sec.<br />
+					   120 sec.<br />
+					   120 sec.</td></tr>
+
+</table>
+
+<p style="color: #BBBBBB; margin-left: 37px; margin-bottom:.5em;">
+	 * beats per minute<br />
+	 * * Alternate exercise</p>
+
+<!-- IMAGE --> 
+<div style="width: 100%; text-align: center; margin:36px 0; vertical-align: middle;">
+<img width="100%" src="/system/publishing/article_assets/171/original/Bench-Press.jpg?ts=1392069230" alt="Bench Press" />
+</div>
+<!-- IMAGE -->
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Thursday – Upper Body</h4>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td width="5%">&nbsp;</td>
+	<td width="40%">Exercise</td>
+	<td width="10%" class="number">Week</td>
+	<td width="10%" class="number">Sets</td>
+	<td width="20%" class="number">Reps/Time</td>
+	<td width="15%" class="number">% RM/Rest</td></tr>
+
+<tr>
+	<td class="tdBlue number">A</td>
+	<td class="tdYellow">Medicine Ball Chest Throw Against Wall</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   5<br />
+					   8<br />
+					   8</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">B1</td>
+	<td class="tdYellow">Bench Press</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   3 cluster</td>
+	<td class="number">6<br />
+					   5<br />
+					   3<br />
+					   4-5</td>
+	<td class="number">80%<br />
+					   82.5%<br />
+					   87.5%<br />
+					   90%</td></tr>
+
+<tr>
+	<td class="tdBlue number">B2</td>
+	<td class="tdYellow">Dead-Start Barbell Row</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   3 cluster</td>
+	<td class="number">6<br />
+					   5<br />
+					   3<br />
+					   4-5</td>
+	<td class="number">80%<br />
+					   82.5%<br />
+					   87.5%<br />
+					   90%</td></tr>
+
+<tr>
+	<td class="tdBlue number" rowspan="2" nowrap="nowrap">C</td>
+	<td nowrap="nowrap" style="border-bottom:none;" class="tdYellow">Upper Body Complex</td>
+	<td class="number" rowspan="2"><br />1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number" rowspan="2"><br />2<br />
+					   3<br />
+					   3<br />
+					   4</td>
+	<td nowrap="nowrap" class="number" rowspan="2"><br />30 sec.<br />
+					   AMRAP<br />
+					   30 sec.<br />
+					   AMRAP</td>
+	<td class="number" rowspan="2"><br />30 sec.<br />
+					   30 sec.<br />
+					   30 sec.<br />
+					   30 sec.</td></tr>
+
+<tr class="tdYellow">
+	<td valign="top">
+		1. Battle Rope: Alternating arms <br />
+		2. Inverted Row <br />
+		3. Battle Rope: Two arms<br />
+		4. Push-Up
+</td></tr>
+
+<tr>
+	<td class="tdBlue number">D</td>
+	<td class="tdYellow">Bear Hug Carry<br /><font color="#BBBBBB">(Dumbbell, Sandbag)</font></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   4<br />
+					   4</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   60 sec.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   45 sec.<br />
+					   30 sec.</td></tr>
+
+<tr>
+	<td class="tdBlue number">E</td>
+	<td class="tdYellow">Rowing Ergometer</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">2<br />
+					   2<br />
+					   2<br />
+					   1</td>
+	<td class="number">500 m.<br />
+					   750/500 m.<br />
+					   750 m.<br />
+					   1500 m.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   &nbsp;</td></tr>
+
+</table>
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Friday – Lower Body</h4>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td width="5%">&nbsp;</td>
+	<td width="40%">Exercise</td>
+	<td width="10%" class="number">Week</td>
+	<td width="10%" class="number">Sets</td>
+	<td width="20%" class="number">Reps/Time</td>
+	<td width="15%" class="number">% RM/Rest</td></tr>
+
+<tr>
+	<td class="tdBlue number">A</td>
+	<td class="tdYellow">Knee Tuck Jumps Over Hurdle</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   1<br />
+					   1</td>
+	<td class="number">5<br />
+					   5<br />
+					   5<br />
+					   5</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">B</td>
+	<td class="tdYellow">Power Clean (or Power Snatch) From Hang</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   8</td>
+	<td class="number">5<br />
+					   3<br />
+					   2<br />
+					   1</td>
+	<td class="number">75%<br />
+					   80%<br />
+					   85%<br />
+					   90%</td></tr>
+
+<tr>
+	<td class="tdBlue number">C</td>
+	<td class="tdYellow">Deadlift</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">4<br />
+					   5<br />
+					   6<br />
+					   3 cluster</td>
+	<td class="number">6<br />
+					   5<br />
+					   3<br />
+					   4-5</td>
+	<td class="number">80%<br />
+					   82.5%<br />
+					   87.5%<br />
+					   90%</td></tr>
+
+<tr>
+	<td class="tdBlue number" rowspan="2" nowrap="nowrap">D</td>
+	<td nowrap="nowrap" style="border-bottom:none;" class="tdYellow">Explosive Complex</td>
+	<td class="number" rowspan="2"><br />1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number" rowspan="2"><br />2<br />
+					   3<br />
+					   4<br />
+					   4</td>
+	<td nowrap="nowrap" class="number" rowspan="2"><br />AMRAP 30 sec.<br />
+					   AMRAP 30 sec.<br />
+					   AMRAP 30 sec.</td>
+	<td class="number" rowspan="2"><br />&nbsp;<br />
+						50%<br />
+					   &nbsp;</td></tr>
+
+<tr class="tdYellow">
+	<td valign="top">
+		1. Box Jump<br />
+		2. Power Clean From Hang<br />
+		3. Burpees<br />
+</td></tr>
+
+<tr>
+	<td class="tdBlue number">E1</td>
+	<td class="tdYellow">Farmer's Walk</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   4<br />
+					   4</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   60 sec.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   45 sec.<br />
+					   30 sec.</td></tr>
+
+<tr>
+	<td class="tdBlue number">E2</td>
+	<td class="tdYellow">Dead-Squat Carry</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">3<br />
+					   4<br />
+					   4<br />
+					   4</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   60 sec.<br />
+					   60 sec.</td>
+	<td class="number">60 sec.<br />
+					   60 sec.<br />
+					   45 sec.<br />
+					   30 sec.</td></tr>
+
+</table>
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Saturday – Strength Circuit</h4>
+
+<p>Perform A1 through A4 as a circuit. Rest 30 seconds between exercises and 2 minutes at the end of each circuit.</p>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td width="5%">&nbsp;</td>
+	<td width="40%">Exercise</td>
+	<td width="10%" class="number">Week</td>
+	<td width="10%" class="number">Circuits</td>
+	<td width="20%" class="number">Reps</td>
+	<td width="15%" class="number">% RM</td></tr>
+
+<tr>
+	<td class="tdBlue number">A1</td>
+	<td class="tdYellow">Deadlift</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   6<br />
+					   6<br />
+					   5</td>
+	<td class="number">5<br />
+					   3<br />
+					   5<br />
+					   3</td>
+	<td class="number">75%<br />
+					   85%<br />
+					   77.5%<br />
+					   87.5%</td></tr>
+
+<tr>
+	<td class="tdBlue number">A2</td>
+	<td class="tdYellow">Dip<br />
+		<font color="#BBBBBB">(add weight if possible)</font></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   6<br />
+					   6<br />
+					   5</td>
+	<td class="number">8<br />
+					   5<br />
+					   8<br />
+					   5</td>
+	<td class="number">&nbsp;</td></tr>
+
+<tr>
+	<td class="tdBlue number">A3</td>
+	<td class="tdYellow">Power Clean From Hang</td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   6<br />
+					   6<br />
+					   5</td>
+	<td class="number">5<br />
+					   3<br />
+					   5<br />
+					   3</td>
+	<td class="number">75%<br />
+					   85%<br />
+					   77.5%<br />
+					   87.5%</td></tr>
+
+<tr>
+	<td class="tdBlue number">A4</td>
+	<td class="tdYellow">Pull-Up<br />
+		<font color="#BBBBBB">(add weight if possible)</font></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">5<br />
+					   6<br />
+					   6<br />
+					   5</td>
+	<td class="number">8<br />
+					   5<br />
+					   8<br />
+					   5</td>
+	<td class="number">&nbsp;</td></tr>
+
+</table>
+
+
+<h4 style="margin-top: 1.4em; margin-bottom: 1em;">Sunday – Moderate Energy Systems Work/Active Recovery</h4>
+
+<table border="0" cellspacing="0" cellpadding="0" class="tableWide1">
+
+<tr class="tdWhite">
+	<td class="tdBlue number">&nbsp;</td>
+	<td class="tdYellow">Exercise</td>
+	<td class="number">Week</td>
+	<td class="number">Sets/Rate</td>
+	<td class="number">Distance/Time</tr>
+
+<tr>
+	<td class="tdBlue number">A</td>
+	<td class="tdYellow">Moderate Intensity Cardio<br />
+		<font color="#BBBBBB">(jogging if outside, treadmill or elliptical if inside)</font></td>
+	<td class="number">1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number">120 bpm<br />
+					   130 bpm<br />
+					   130 bpm<br />
+					   140 bpm</td>
+	<td class="number">10 min.<br />
+					   10 min.<br />
+					   15 min.<br />
+					   15 min.</td></tr>
+
+<tr>
+	<td class="tdBlue number" rowspan="2" nowrap="nowrap">B</td>
+	<td nowrap="nowrap" style="border-bottom:none;" class="tdYellow">Abdominal Circuit</td>
+	<td class="number" rowspan="2"><br />1<br />
+					   2<br />
+					   3<br />
+					   4</td>
+	<td class="number" rowspan="2"><br />3<br />
+					   4<br />
+					   4<br />
+					   5</td>
+	<td nowrap="nowrap" class="number" rowspan="2"><br />10-12<br />
+					   AMRAP 45 sec.<br />
+					   AMRAP 45 sec.<br />
+					   45 sec.<br />
+					   AMRAP 45 sec.</td>
+	<td class="number" rowspan="2"><br />&nbsp;</td></tr>
+
+<tr class="tdYellow">
+	<td valign="top">
+		1. Cable Crunch<br />
+		2. Swiss Ball Crunch<br />
+		3. Reverse Crunch<br />
+		4. Plank<br />
+		5. Crunch</td></tr>
+
+</table>
+
+
+<p style="color: #BBBBBB;"><font color="#ffa800">Note:</font> On this day you can also perform "beach work" (biceps and triceps) as long as it doesn't exceed 20 minutes.</p>
+
+
+<h3>Train Like an Athlete, Look Like an Athlete</h3>
+
+<p>You'll notice that there isn't much variety in this program. The goal is to get you lean and mean, not carve out the coveted upper pec/front delt tie-in. When trying to drop a lot of fat to get super lean, you won't build much muscle, so it doesn't make sense to use a million lifting exercises.</p>
+
+<p>The most important thing when trying to lose fat is to maintain (or even increase) your strength. If you can do that, then you won't lose any muscle and might even add some. Doing garbage sets when trying to lose fat will just leave you tired and make it harder to keep your big lifts up.</p>
+
+<p>This program has you lift, move, and train like an athlete to give you a body that looks, <i>and is</i>, powerful. Who doesn't want that?</p>
+
+        </p>
+      </div>
+            <aside class="authorBio col-xs-12">
+          <a href="/all-articles/authors/christian-thibaudeau">
+            <img alt="Christian-thibaudeau-author" class="pull-left" src="/system/publishing/authors/2/medium/Christian-Thibaudeau-Author.jpg?1431981532" />
+</a>      <a href="/all-articles/authors/christian-thibaudeau">
+        <div><nobr>Christian Thibaudeau</nobr></div>
+</a>      <p class="bio">Christian Thibaudeau specializes in building bodies that perform as well as they look. He is one of the most sought-after coaches by the world's top athletes and bodybuilders.
+
+<!-- FOLLOW ON FACEBOOK --> 
+<h4><a style="font-size: 20px; color: #3B5998;" href="https://facebook.com/christian.thibaudeau" target="_blank"> 
+Follow Christian Thibaudeau on Facebook</a></h4>
+<!-- FOLLOW ON FACEBOOK --></p>
+    </aside>
+
+    </div>
+  </div>
+</div>
+<script>
+$(document).ready(function(){
+  //ol_container will hold all the instances of ol tags and their children
+  var ol_container = document.getElementsByTagName('OL');
+  //loop goes through the ol_container array one at a time
+  for(var k=0; k < ol_container.length; k++){
+    //some ordered lists start at one, in others the start is specified
+    var start_num = ol_container[k].start;
+    //li_item holds all the li tags
+    var li_item = ol_container[k].getElementsByTagName('LI');
+    //oop through array of li_item
+    for(var i=0; i < li_item.length; i++) {
+      //a class is added if the ordered list has 10 or higher to adjust spacing
+      if (i + start_num > 9) {
+        li_item[i].className = "ol-offset";
+      }
+    }
+  }
+});
+</script>
+
+
+      <div class="discuss">
+        <a href="https://www.facebook.com/OfficialTestosteroneNation">Comment on Facebook</a>
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- <div class="addthis_sharing_toolbox"></div> -->
+
+<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+	<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+		<a class="addthis_button_facebook"></a>
+		<a class="addthis_button_twitter"></a>
+		<a class="addthis_button_email"></a>
+		<a class="addthis_button_more"></a>
+	</div>
+</div>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-550c66387b1bf162"></script>
+      </div>
+      <div class="text-center views">
+            03/04/16
+         <!-- Only shows in admin, placed in span to prevent creating new class -->
+      </div>
+    </div>
+    <div class="in-article-ad">
+        <div id="div-id-for-300x250-incontent2">
+<script type='text/javascript'>
+  googletag.cmd.push(function() { googletag.display("div-id-for-300x250-incontent2"); });
+</script>
+</div>
+
+    </div>
+    <div id="rcjsload_a28ec0"></div>
+    <!-- Revcontent Below Article Ads -->
+    <script type="text/javascript">
+    (function() {
+    var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+    var rcds = document.getElementById("rcjsload_a28ec0");
+    var rcel = document.createElement("script");
+    rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+    rcel.type = 'text/javascript';
+    rcel.src = "https://trends.revcontent.com/serve.js.php?w=75499&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+    rcel.async = true;
+    rcds.appendChild(rcel);
+    })();
+    </script>
+    <!-- Revcontent Below Article Ads -->
+      <div class="related-articles">
+        <h3>Popular &amp; Trending</h3>
+            <div class="articleWrap clearfix search" id="article_10007031">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/supplements/heart-health-5-strategies-you-dont-know"><img alt="Heart-health" id="image_10007031" src="/system/publishing/articles/10007031/medium/Heart-Health.jpg?1546038265" /></a>
+      <div class="icon-layer">
+          <div class="new-article-icon"><span>NEW</span></div>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/supplements/heart-health-5-strategies-you-dont-know">Heart Health: 5 Strategies You Don't Know</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/tc">TC Luoma</a> |</span>
+Today</h2>
+      <p class="teaser">
+        Given the prevalence of heart problems with young people – even young athletes – it&#x27;s time to start giving the heart a little love. Here&#x27;s how.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/testosterone-optimization">Testosterone Optimization</a></li>
+            <li class="list"><a href="/all-articles/tags/magnesium">Magnesium</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10006609">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-hammer-your-rear-delts"><img alt="Hammer-your-rear-delts" id="image_10006609" src="/system/publishing/articles/10006609/medium/Hammer-Your-Rear-Delts.jpg?1534795616" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-hammer-your-rear-delts">Tip: Hammer Your Rear Delts</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/tom-maccormick">Tom MacCormick</a> |</span>
+08/31/18</h2>
+      <p class="teaser">
+        Most lifters do bent-over flyes to hit their rear delts. Here&#x27;s what they should be doing instead.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/shoulder-training">Shoulders</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10007042">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-the-two-minute-leg-press-challenge"><img alt="The-two-minute-leg-press-challenge" id="image_10007042" src="/system/publishing/articles/10007042/medium/The-Two-Minute-Leg-Press-Challenge.jpg?1546631409" /></a>
+      <div class="icon-layer">
+          <div class="new-article-icon"><span>NEW</span></div>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-the-two-minute-leg-press-challenge">Tip: The Two-Minute Leg Press Challenge</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/t-nation">T Nation</a> |</span>
+Today</h2>
+      <p class="teaser">
+        Build your quads. Challenge your lungs. Test your sanity. Try this!
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/legs">Legs</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10007041">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-sorry-you-do-need-some-cardio"><img alt="Sorry-you-do-need-some-cardio" id="image_10007041" src="/system/publishing/articles/10007041/medium/Sorry-You-Do-Need-Some-Cardio.jpg?1546282389" /></a>
+      <div class="icon-layer">
+          <div class="new-article-icon"><span>NEW</span></div>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-sorry-you-do-need-some-cardio">Tip: Sorry, You Do Need Some Cardio</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/eric-bach">Eric Bach</a> |</span>
+Today</h2>
+      <p class="teaser">
+        But what type is best? HIIT or LISS? Here&#x27;s what you need to know.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/metabolic-conditioning">Metabolic Conditioning</a></li>
+            <li class="list"><a href="/all-articles/tags/fat-loss-training">Fat Loss Training</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004702">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-a-new-exercise-for-an-athletic-butt"><img alt="A-new-exercise-for-an-athletic-butt" id="image_10004702" src="/system/publishing/articles/10004702/medium/A-New-Exercise-for-an-Athletic-Butt.png?1492115563" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-a-new-exercise-for-an-athletic-butt">Tip: A New Exercise for an Athletic Butt</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/travis-hansen">Travis Hansen</a> |</span>
+04/19/17</h2>
+      <p class="teaser">
+        Build a strong and powerful backside with this unique exercise that won&#x27;t leave you sore for days.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/athletic-performance">Athletic Performance</a></li>
+            <li class="list"><a href="/all-articles/tags/powerlifting-strength">Powerlifting &amp; Strength</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10005600">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-a-better-way-to-stretch-your-chest"><img alt="A-better-way-to-stretch-your-chest" id="image_10005600" src="/system/publishing/articles/10005600/medium/A-Better-Way-to-Stretch-Your-Chest.png?1510601276" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-a-better-way-to-stretch-your-chest">Tip: A Better Way to Stretch Your Chest</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/john-rusin">Dr John Rusin</a> |</span>
+11/21/17</h2>
+      <p class="teaser">
+        How to stretch your pecs without wrecking your shoulders.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/chest">Chest</a></li>
+            <li class="list"><a href="/all-articles/tags/mobility">Mobility</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10007040">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-a-new-way-to-widen-your-shoulders"><img alt="A-new-way-to-widen-your-shoulders" id="image_10007040" src="/system/publishing/articles/10007040/medium/A-New-Way-to-Widen-Your-Shoulders.jpg?1546282311" /></a>
+      <div class="icon-layer">
+          <div class="new-article-icon"><span>NEW</span></div>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-a-new-way-to-widen-your-shoulders">Tip: A New Way to Widen Your Shoulders</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/nick-tumminello">Nick Tumminello</a> |</span>
+Today</h2>
+      <p class="teaser">
+        Combine these two effective lateral raise variations and be ready to go up a T-shirt size.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/shoulder-training">Shoulders</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10006090">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/supplements/tip-the-biggest-meal-of-the-day"><img alt="The-biggest-meal-of-the-day" id="image_10006090" src="/system/publishing/articles/10006090/medium/The-Biggest-Meal-of-the-Day.jpg?1522091496" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/supplements/tip-the-biggest-meal-of-the-day">Tip: The Biggest Meal of the Day</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/chris-shugart">Chris Shugart</a> |</span>
+04/04/18</h2>
+      <p class="teaser">
+        When should you pack in the calories and protein? When should you have your smallest, lowest-carb meal of the day? Here&#x27;s the science.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/diet-strategy">Diet Strategy</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10007029">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/6-new-rules-for-rows"><img alt="6-new-rules-for-rows" id="image_10007029" src="/system/publishing/articles/10007029/medium/6-New-Rules-For-Rows.jpg?1545951674" /></a>
+      <div class="icon-layer">
+          <div class="new-article-icon"><span>NEW</span></div>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/6-new-rules-for-rows">6 New Rules For Rows</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/nick-tumminello">Nick Tumminello</a> |</span>
+Today</h2>
+      <p class="teaser">
+        Kroc rows, the misuse of bands, and the row-double-what-you-bench rule. None of those hold up to logic. Here&#x27;s what to do instead.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/back">Back</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10000214">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/workouts/531-how-to-build-pure-strength"><img alt="5-3-1-how-to-build-pure-strength" id="image_10000214" src="/system/publishing/articles/10000214/medium/5-3-1-How-to-Build-Pure-Strength.jpg?1421866068" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/workouts/531-how-to-build-pure-strength">5/3/1: How to Build Pure Strength</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/jim-wendler">Jim Wendler</a> |</span>
+07/07/09</h2>
+      <p class="teaser">
+        Jim Wendler&#x27;s 5/3/1/ program promises slow and steady gains that will eventually turn you into the strongest guy in the gym. And it delivers, every time.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/powerlifting-strength">Powerlifting &amp; Strength</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10003588">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-vary-rep-range-to-grow"><img alt="Tip-vary-rep-range-to-grow" id="image_10003588" src="/system/publishing/articles/10003588/medium/Tip-Vary-Rep-Range-to-Grow.jpg?1462830689" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-vary-rep-range-to-grow">Tip: Vary Rep Range to Grow</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/brad-schoenfeld">Brad Schoenfeld, PhD</a> |</span>
+05/19/16</h2>
+      <p class="teaser">
+        There&#x27;s more to bodybuilding than 3 sets of 10. If your main goal is hypertrophy, this is a must-read.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10007043">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-master-the-feeder-set"><img alt="Master-the-feeder-set" id="image_10007043" src="/system/publishing/articles/10007043/medium/Master-the-Feeder-Set.jpg?1546631618" /></a>
+      <div class="icon-layer">
+          <div class="new-article-icon"><span>NEW</span></div>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-master-the-feeder-set">Tip: Master the Feeder Set</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/paul-carter">Paul Carter</a> |</span>
+Today</h2>
+      <p class="teaser">
+        It&#x27;s not a warm-up set, and it&#x27;s not a work set either. It&#x27;s that all-important set in between. Here&#x27;s how to do it.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+            <li class="list"><a href="/all-articles/tags/powerlifting-strength">Powerlifting &amp; Strength</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10006376">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/workouts/built-for-battle"><img alt="Built-for-battle" id="image_10006376" src="/system/publishing/articles/10006376/medium/Built-for-Battle.jpg?1528909536" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/workouts/built-for-battle">Built For Battle</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+06/25/18</h2>
+      <p class="teaser">
+        A complete workout plan for inhuman strength, athletic power, and stand-out muscle.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/powerlifting-strength">Powerlifting &amp; Strength</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10006179">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/workouts/push-pull-legs-the-ultimate-split"><img alt="Push-pull-legs-the-ultimate-split" id="image_10006179" src="/system/publishing/articles/10006179/medium/Push-Pull-Legs-The-Ultimate-Split.jpg?1524161871" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/workouts/push-pull-legs-the-ultimate-split">Push-Pull-Legs: The Ultimate Split</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/paul-carter">Paul Carter</a> |</span>
+08/17/18</h2>
+      <p class="teaser">
+        Training one body part per day is outdated, and full-body workouts don&#x27;t always cut it. Push-pull-legs is superior for any goal. Here&#x27;s why. 
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+            <li class="list"><a href="/all-articles/tags/powerlifting-strength">Powerlifting &amp; Strength</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10003133">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/diet-fat-loss/tip-avoid-soy-protein"><img alt="No-soy" id="image_10003133" src="/system/publishing/articles/10003133/medium/No-Soy.jpg?1446063387" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/diet-fat-loss/tip-avoid-soy-protein">Tip: Avoid Soy Protein</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/tc">TC Luoma</a> |</span>
+12/06/15</h2>
+      <p class="teaser">
+        For bodybuilders and strength athletes, soy protein is no better than water. Here&#x27;s why.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004450">
+    <div class="articleImg col-xs-4">
+        <div class="play"></div>
+      <a href="/videos/tip-prepare-for-big-presses-with-front-push-aways"><img alt="Prepare-for-big-presses-with-front-push-aways" id="image_10004450" src="/system/publishing/articles/10004450/medium/Prepare-for-Big-Presses-with-Front-Push-Aways.jpg?1487285686" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-xs-8">
+      <h2><a href="/videos/tip-prepare-for-big-presses-with-front-push-aways">Tip: Prepare for Big Presses with Front Push-Aways</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+03/09/17</h2>
+      <p class="teaser">
+        This exercise teaches you to hold the shoulder girdle rigid to avoid strength leaks in pressing lifts. It strengthens the front delts, rotator cuff, and even the lats.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004131">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/the-10-best-biceps-training-tips"><img alt="The-10-best-biceps-training-tips" id="image_10004131" src="/system/publishing/articles/10004131/medium/The-10-Best-Biceps-Training-Tips.jpg?1480443284" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/the-10-best-biceps-training-tips">The 10 Best Biceps Training Tips</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/t-nation">T Nation</a> |</span>
+12/12/16</h2>
+      <p class="teaser">
+        What&#x27;s the single best way to build big biceps? We asked 10 pros and experts. Their advice may surprise you.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/arm-training">Arms</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10003974">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/the-best-damn-workout-plan-for-natural-lifters"><img alt="The-best-damn-workout-plan-for-natural-lifters" id="image_10003974" src="/system/publishing/articles/10003974/medium/The-Best-Damn-Workout-Plan-For-Natural-Lifters.png?1475008008" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/the-best-damn-workout-plan-for-natural-lifters">The Best Damn Workout Plan For Natural Lifters</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+07/14/17</h2>
+      <p class="teaser">
+        Bodybuilding is full of programs used by &quot;enhanced&quot; lifters, but most people don&#x27;t take drugs and can&#x27;t get good results. This effective program is for them.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004904">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-the-best-exercise-for-a-shoulder-pump"><img alt="The-best-exercise-for-a-shoulder-pump" id="image_10004904" src="/system/publishing/articles/10004904/medium/The-Best-Exercise-for-a-Shoulder-Pump.jpeg?1496866666" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-the-best-exercise-for-a-shoulder-pump">Tip: The Best Exercise for a Shoulder Pump</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+06/16/17</h2>
+      <p class="teaser">
+        If you have trouble feeling your delts work, give this crazy looking exercise a try. Here&#x27;s how to do it.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/shoulder-training">Shoulders</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004414">
+    <div class="articleImg col-xs-4">
+        <div class="play"></div>
+      <a href="/videos/tip-build-delts-with-the-gironda-dumbbell-swing"><img alt="Build-delts-with-the-gironda-dumbbell-swing" id="image_10004414" src="/system/publishing/articles/10004414/medium/Build-Delts-with-the-Gironda-Dumbbell-Swing.jpg?1486581229" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-xs-8">
+      <h2><a href="/videos/tip-build-delts-with-the-gironda-dumbbell-swing">Tip: Build Delts with the Gironda Dumbbell Swing</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+03/02/17</h2>
+      <p class="teaser">
+        This odd-looking exercise adds width to the shoulders. Here&#x27;s how to do it.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004637">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-build-better-lats-with-cables"><img alt="Build-better-lats-with-cables" id="image_10004637" src="/system/publishing/articles/10004637/medium/Build-Better-Lats-With-Cables.jpg?1490647255" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-build-better-lats-with-cables">Tip: Build Better Lats With Cables</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/lee-boyce">Lee Boyce</a> |</span>
+04/03/17</h2>
+      <p class="teaser">
+        In this case, a machine is better than free weights. Check this out.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+            <li class="list"><a href="/all-articles/tags/back">Back</a></li>
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10001803">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/beast-building-1"><img alt="Beast-building-1" id="image_10001803" src="/system/publishing/articles/10001803/medium/Beast-Building-1.jpg?1427742951" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/beast-building-1">Beast Building - Part 1</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+04/14/08</h2>
+      <p class="teaser">
+        The first installment of a three-part series that&#x27;ll turn you into a thick, dense, and rugged beast in three short months.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/bodybuilding">Bodybuilding</a></li>
+            <li class="list"><a href="/all-articles/tags/powerlifting-strength">Powerlifting &amp; Strength</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10003794">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-2-ways-to-get-a-skin-splitting-pump"><img alt="2-ways-to-get-a-skin-splitting-pump" id="image_10003794" src="/system/publishing/articles/10003794/medium/2-Ways-to-Get-a-Skin-Splitting-Pump.jpg?1469138630" /></a>
+      <div class="icon-layer">
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-2-ways-to-get-a-skin-splitting-pump">Tip: 2 Ways to Get a Skin-Splitting Pump</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/alex-mullan">Alex Mullan</a> |</span>
+08/02/16</h2>
+      <p class="teaser">
+        A muscular pump helps build muscle (and it looks awesome of course). Here are two ways to get the best pump of your life.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004523">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-activate-your-cns-then-lift-heavy"><img alt="Activate-your-cns-then-lift-heavy" id="image_10004523" src="/system/publishing/articles/10004523/medium/Activate-Your-CNS-Then-Lift-Heavy.JPG?1488573165" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-activate-your-cns-then-lift-heavy">Tip: Activate Your CNS, Then Lift Heavy</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/christian-thibaudeau">Christian Thibaudeau</a> |</span>
+03/12/17</h2>
+      <p class="teaser">
+        Do this first and you&#x27;ll lift more weight and have fewer injuries.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+        </div>
+    </div>
+  </div>
+  <div class="articleWrap clearfix search" id="article_10004000">
+    <div class="articleImg col-sm-4 hidden-xs">
+      <a href="/training/tip-replace-the-upright-row"><img alt="Replace-the-upright-row-1" id="image_10004000" src="/system/publishing/articles/10004000/medium/Replace-the-Upright-Row-1.jpg?1477339737" /></a>
+      <div class="icon-layer">
+          <a class="most-pop-check" href="//www.t-nation.com/most-popular"><span class="most-popular-articles"></span></a>
+      </div>
+    </div>
+
+    <div class="articleSearchPage col-md-8 col-sm-8 col-xs-12">
+      <h2><a href="/training/tip-replace-the-upright-row">Tip: Replace the Upright Row</a></h2>
+      <h2 class="byline-date">  <span class="byline ">by <a href="/all-articles/authors/john-rusin">Dr John Rusin</a> |</span>
+10/22/16</h2>
+      <p class="teaser">
+        For most people, the upright row is a shoulder wrecker. Here&#x27;s a better exercise.
+      </p>
+        <div class="listview-tags">
+            <li class="list"><a href="/all-articles/tags/tips">Tips</a></li>
+        </div>
+    </div>
+  </div>
+
+      </div>
+    </div>
+    <div class="col-md-4 sidebar hidden-sm hidden-xs">
+      <!-- SIDEBAR -->
+      <div id="sidebar">
+  <div class="testosterone sidebar-item">
+    <img alt="Testosterone Dangerously Hardcore sice 1998" height="62" src="/publishing/assets/banners/Testosterone-DHC.png" srcset="/publishing/assets/banners/Testosterone-DHC.svg" width="228" />
+  </div>
+  <div class="sidebar-item hidden-sm hidden-xs">
+		<div id='sideright1' class="hidden-sm hidden-xs"></div>
+	</div>
+  <div id="dose" class="sidebar-item">
+    <!-- Weekly Dose Signup Pasted from Tim -->
+
+<style>
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; }
+input:focus::-moz-placeholder { color:transparent; }
+input:focus:-ms-input-placeholder { color:transparent; }
+#mc_embed_signup input[type='submit']:hover { background: #CC0000 !important; color:#FFFFFF !important; }
+</style>
+
+<div class="weekly-dose">
+ 	<div id="mc_embed_signup">
+		<form action="//T-Nation.us10.list-manage.com/subscribe/post?u=5a0acb45decc4749a1f0e905c&amp;id=9a2e805498" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+		<h2 style="font-size: 28px; font-weight: normal; line-height: 1.2em; color: #FFFF00; margin: 0 0 5px 0; text-align: center;">
+		Get The Weekly Dose Newsletter</h2>
+		<p style="color: #FF2200; font-size: 20px; text-align: center; margin: 0 0 5px 0; line-height: 1.4em;">It's Free!</p>
+		<p style="color: #FFFFFF; font-size: 16px; text-align: center; margin: 0; line-height: 1.4em;">Expert Insights To Get Stronger, Gain Muscle Faster, And Take Your Lifting To The Next Level</p>
+		<input type="text"  style="padding-left: 10px; height: 2em; color: #FFFF00; border: 1px solid #444444 !important; width: 100%; margin: 15px 0 15px 0;" value="" name="NMAE"  class="email" id="mce-NAME" placeholder="Name" required>
+		<input type="email" style="padding-left: 10px; height: 2em; color: #FFFF00; border: 1px solid #444444 !important; width: 100%;" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email" required>
+		<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		<div style="position: absolute; left: -5000px;">
+			<input type="text" name="b_5a0acb45decc4749a1f0e905c_9a2e805498" tabindex="-1" value="">
+		</div>
+		<div class="clear">
+			<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="background: #FF1100; color: #FFFFFF; font-size: 17px; margin: 15px auto 0 auto; padding: 10px 25px; height: auto; text-shadow: none; border:none;">
+		</div>
+		</form>
+	</div>
+</div>
+
+<!-- Weekly Dose Signup -->
+	</div>
+	<div class="sidebar-item">
+  	<div id='sideright2' class="hidden-sm hidden-xs"></div>
+  </div>
+  <div class="sidebar-item">
+  		<div id='sidebottom' class="hidden-sm hidden-xs"></div>
+  </div>
+  <div class="sidebar-item">
+  	<img alt="T-MAG T-MAG.COM TMUSCLE" src="/publishing/assets/banners/t-mag-t-magcom-tmuscle-logos.png" />
+	</div>
+</div>
+    </div>
+</div>
+
+<script>
+ var data = {
+   "article" : {
+     "id" : 485,
+     "title" : "Athlete Lean, Athlete Strong",
+     "slug" : "athlete-lean-athlete-strong",
+     "published" : "2014-02-10 14:53:51 -0700",
+     "category" : window.location.pathname.replace("athlete-lean-athlete-strong", ").replace(/[\/\\]/gi, ")
+   },
+   "author" : {
+     "id" : 2,
+     "name" : "Christian Thibaudeau"
+   }
+ }
+
+ window.trackEvent("Viewed an article", "de970866-7c7d-40d5-987c-bbe935bac2c8", data);
+
+ var startTime = Math.floor(Date.now() / 1000),
+  titles = $("#articles").find("h1, h2, h3, h4, h5"),
+  totalTitles = titles.length;
+
+ var criticalHit = false;
+ $("[data-conversion-point='true'").waypoint({
+   offset: "50%",
+   handler: function() {
+     if (!criticalHit) {
+       criticalHit = true;
+       var hitTime = Math.floor(Date.now() / 1000),
+        timeOnPage = hitTime - startTime;
+       var data = {
+         "article" : {
+           "id" : 485,
+           "title" : "Athlete Lean, Athlete Strong",
+           "slug" : "athlete-lean-athlete-strong",
+           "published" : "2014-02-10 14:53:51 -0700",
+           "category" : window.location.pathname.replace("athlete-lean-athlete-strong", ").replace(/[\/\\]/gi, ")
+         },
+         "author" : {
+           "id" : 2,
+           "name" : "Christian Thibaudeau"
+         },
+         "progress": {
+           "tag" : "critical-hit",
+           "time" : timeOnPage
+         }
+       }
+        window.trackEvent("Article progress", "de970866-7c7d-40d5-987c-bbe935bac2c8", data);
+     }
+   }
+ })
+</script>
+<script>
+$(document).ready(function(){
+  if ($(window).width() > 991) {
+    $('<div id=\"div-id-for-300x250-right1\">\n<script type=\'text/javascript\'>\n  googletag.cmd.push(function() { googletag.display(\"div-id-for-300x250-right1\"); });\n<\/script>\n<\/div>\n').appendTo("#sideright1");
+    $('<div id=\"div-id-for-300x250-right2\">\n<script type=\'text/javascript\'>\n  googletag.cmd.push(function() { googletag.display(\"div-id-for-300x250-right2\"); });\n<\/script>\n<\/div>\n').appendTo("#sideright2");
+    $('<div id=\"div-id-for-300x250-bottom\">\n<script type=\'text/javascript\'>\n  googletag.cmd.push(function() { googletag.display(\"div-id-for-300x250-bottom\"); });\n<\/script>\n<\/div>\n').appendTo("#sidebottom");
+    $("#sidebar div.sidebar-item:last-child").css("bottom", "0");
+    $("#sidebar div.sidebar-item:nth-child(5)").css("bottom", "188px");
+  }
+});
+</script>
+
+        </div>
+      </div>
+    </article>
+  </div>
+<footer id="page_footer" class="footer">
+  <div class="container-fluid">
+    <div class="row">
+        <div class="footer-logo col-xs-12"><a class="footer-logo" href="//www.t-nation.com"></a></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-5">
+            <ul>
+                <li>© 2019 T Nation LLC. All Rights Reserved.</li>
+                <li><a href="//www.t-nation.com/support/privacy-policy">Privacy Policy</a></li>
+                <li><a href="//www.t-nation.com/support/terms-of-use">Terms of Use</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-3">
+            <ul>
+                <li><a href="//www.t-nation.com">Home</a></li>
+                <li><a href="//www.t-nation.com/all-articles">Articles</a></li>
+                <li><a href="https://forums.t-nation.com">Forums</a></li>
+                <li><a href="//www.t-nation.com/blogs">Blogs</a></li>
+                <li><a href="//www.t-nation.com/videos">Videos</a></li>
+                <li><a href="//www.t-nation.com/store">Biotest Store</a></li>
+            </ul>
+        </div>
+        <div class="col-sm-4">
+            <ul>
+                <li><!--email_off--><a href="mailto:fb@t-nation.com">Feedback</a><!--/email_off--></li>
+                <li><a href="//www.t-nation.com/support/editorial-guidelines">Editorial Guidelines</a></li>
+                <li><!--email_off--><a href="mailto:articles@t-nation.com">Article Submission</a><!--/email_off--></li>
+                <li><!--email_off--><a href="mailto:ads@t-nation.com">Advertising on T Nation</a><!--/email_off--></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="testosterone-nation"><img alt="Testosterone Nation" src="/publishing/assets/Testosterone-Nation.png" srcset="/publishing/assets/Testosterone-Nation.svg" style="max-width: 100%; max-height: 100%;" /></div>
+    </div>
+</div>
+
+  <!-- Served by prod-app1 !-->
+
+</footer>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-550c66387b1bf162" async="async"></script>
+<script type="text/javascript">
+  $( document ).ready(function() {
+    updateSidebarHeight();
+  });
+  $( window ).resize(function() {
+    updateSidebarHeight();
+  });
+  function updateSidebarHeight() {
+    if ($(window).width() > 991) {
+      if ($("#primary-section").height() > 3900) {
+        $("#sidebar").addClass("placeholder-side-banner");
+          var pos = $("#primary-section").position();
+          var pos2 = $(".sidebar").position();
+          var diff = pos2.top - pos.top;
+          $(".sidebar").height($("#primary-section").height() - diff);
+      } else {
+          $("#sidebar").removeClass("placeholder-side-banner");
+          $(".sidebar").css({"height":"auto"});
+      }
+    } else {
+        $(".sidebar .sidebar-item").css({"float":"none"});
+        $("#sidebar").removeClass("placeholder-side-banner");
+        $(".sidebar").css({"height":"auto"});
+    };
+  }
+</script>
+    <span style="height: 1px; width: 1px;">
+      <script type="text/javascript" class="teads" src="//a.teads.tv/page/87475/tag" async="true"></script>
+    </span>
+</body>
+</html>

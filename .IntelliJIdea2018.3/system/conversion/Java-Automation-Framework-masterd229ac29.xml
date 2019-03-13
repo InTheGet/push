@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\Java Framework.iml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\compiler.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\encodings.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\kotlinc.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_aventstack_extentreports_4_0_6.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_beust_jcommander_1_72.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_google_code_gson_gson_2_8_5.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_google_guava_guava_25_0_jre.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_google_j2objc_j2objc_annotations_1_1.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__com_squareup_okio_okio_1_14_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__commons_codec_commons_codec_1_9.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_cucumber_core_4_2_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_cucumber_expressions_6_2_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_cucumber_html_0_2_7.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_cucumber_java_4_2_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_cucumber_testng_4_2_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_datatable_1_1_7.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_datatable_dependencies_1_1_7.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_gherkin_5_1_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__io_cucumber_tag_expressions_1_1_1.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__log4j_log4j_1_2_17.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_8_15.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_apache_commons_commons_exec_1_3.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_freemarker_freemarker_2_3_23.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_mongodb_bson_3_3_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_mongodb_mongodb_driver_3_3_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_mongodb_mongodb_driver_core_3_3_0.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\libraries\Maven__org_testng_testng_6_14_3.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\misc.xml" timestamp="1547924056089" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\modules.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\vcs.xml" timestamp="1547594820000" />
+    <file path="C:\Users\Dell\Downloads\Java-Automation-Framework-master\Java-Automation-Framework-master\.idea\workspace.xml" timestamp="1547925323803" />
+  </project-files>
+</conversion>
+

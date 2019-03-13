@@ -1,0 +1,47 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "static/icon-disabled19.png",
+         "38": "static/icon-disabled38.png"
+      },
+      "default_popup": "panel.html",
+      "default_title": "SEOquake"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "plugins.css" ],
+      "exclude_matches": [ "*://*.facebook.com/*", "*://*.facebook.net/*", "*://*.fbcdn.net/*", "*://*.akamaihd.net/*", "*://*.virtualearth.net/*", "*://*.youtube.com/*" ],
+      "js": [ "data/plugins.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   }, {
+      "css": [ "captcha.css" ],
+      "js": [ "data/captcha.js" ],
+      "matches": [ "http://ipv4.google.com/sorry/IndexRedirect*", "https://ipv4.google.com/sorry/IndexRedirect*", "http://ipv4.google.com/sorry/index*", "https://ipv4.google.com/sorry/index*", "*://*.yandex.ru/showcaptcha*", "*://yandex.ru/showcaptcha*", "*://*.yandex.ua/showcaptcha*", "*://yandex.ua/showcaptcha*", "*://*.yandex.by/showcaptcha*", "*://yandex.by/showcaptcha*", "*://*.yandex.kz/showcaptcha*", "*://yandex.kz/showcaptcha*", "*://*.yandex.com/showcaptcha*", "*://yandex.com/showcaptcha*", "*://*.yandex.com.tr/showcaptcha*", "*://yandex.com.tr/showcaptcha*" ]
+   }, {
+      "js": [ "data/oauth.js" ],
+      "matches": [ "http://localhost:8000/oauth2/success*", "https://auth.rc.semrush.net/oauth2/success*", "https://oauth.semrush.com/oauth2/success*" ]
+   }, {
+      "css": [ "gsc.css" ],
+      "js": [ "data/gsc.js" ],
+      "matches": [ "https://www.google.com/webmasters/tools/external-links?*", "https://www.google.com/webmasters/tools/external-links-domain?*", "https://www.google.com/webmasters/tools/search-analytics?*", "https://www.google.com/webmasters/tools/dashboard?*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "static/logo_128x128.png",
+      "16": "static/icon_16x16.png",
+      "48": "static/logo_48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+GCVH9I+SmB50BbdpoxYcU2ZMrPK6w8HjEIvAlVGDxdqlv3zlXh3W7qV134ET++tReBzolNLy+PtOh1+nytKC6FujZseop/8TAXy6+bTSMSnd5R7bMaDpYiWbSsBRL4+sdl2oQ2fmteqLsZJFmKMX/i1BNZlhbD4v4GiUFIWmXwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "notifications", "storage", "tabs", "http://*/*", "https://*/*", "cookies", "https://www.seoquake.com/" ],
+   "short_name": "SEOquake",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.6.7",
+   "web_accessible_resources": [ "/static/fonts/*", "/static/icons/*", "/static/svg/*" ]
+}
